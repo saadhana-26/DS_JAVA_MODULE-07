@@ -23,7 +23,7 @@ If there is no cycle, the program should return null without modifying the linke
 Developed by: SAADHANA L
 RegisterNumber:  212224060224
 */
-
+~~~
 import java.util.*;
 
 public class Solution {
@@ -112,7 +112,7 @@ public class Solution {
     }
 }
 
-
+~~~
 ## Output:
 <img width="914" height="212" alt="image" src="https://github.com/user-attachments/assets/15efe02b-51a1-42de-880c-cefbf942f424" />
 
