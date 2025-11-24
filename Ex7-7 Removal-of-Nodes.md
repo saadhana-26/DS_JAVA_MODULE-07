@@ -18,7 +18,7 @@ program that removes all nodes from a linked list whose value matches a given in
 Developed by: SAADHANA L
 RegisterNumber: 212224060224
 */
-
+~~~
 import java.util.*;
 
 class ListNode {
@@ -89,7 +89,7 @@ public class Main {
         scanner.close();
     }
 }
-
+~~~
 
 ## Output:
 <img width="669" height="215" alt="image" src="https://github.com/user-attachments/assets/713a554f-a750-4e04-99c1-4bc7cd3aa66a" />
