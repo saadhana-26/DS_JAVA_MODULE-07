@@ -21,7 +21,7 @@ Program to  Right Rotation LinkedList
 Developed by: SAADHANA L
 RegisterNumber: 212224060224  
 */
-
+~~~
 import java.util.Scanner;
 public class RotateLinkedList {
     public static Node rotate(Node head, int k) {
@@ -82,7 +82,7 @@ class Node {
     }
 }
 
-
+~~~
 ## Output:
 <img width="892" height="163" alt="image" src="https://github.com/user-attachments/assets/80640050-b78c-4777-bc1d-1a1638cc3d22" />
 
